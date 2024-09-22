@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "flippr",
+    "slug": "flippr",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c1d6cd82-e1b3-4b69-bd41-c0e5eaab8e98"
+      }
+    },
+    "owner": "prsuyal",
+    "assets": [
+      "./assets/fonts/"
+    ],
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
