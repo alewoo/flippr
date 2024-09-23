@@ -1,5 +1,7 @@
 Flippr - Personalized Book Recommendation App
 
+Link to the Devpost: https://devpost.com/software/flippr-8dm5xc
+
 Introduction
 Flippr is a mobile app designed to help users discover books tailored to their preferences. It allows users to swipe through book recommendations, like or skip books, and receive more personalized suggestions based on their interactions and reading preferences. Powered by AI, Flippr analyzes user data to make more accurate book suggestions and enhance the reading discovery process.
 
