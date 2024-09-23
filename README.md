@@ -1,7 +1,7 @@
 # Flippr – Personalized Book Recommendation App
 
 **Devpost Link**: [Flippr on Devpost](https://devpost.com/software/flippr-8dm5xc)
-**Backend Github Link**: ([https://devpost.com/software/flippr-8dm5xc](https://github.com/alewoo/flippr-backend))
+**Backend Github Link**: [Flippr Backend]([https://devpost.com/software/flippr-8dm5xc](https://github.com/alewoo/flippr-backend)](https://github.com/alewoo/flippr-backend/tree/main))
 
 ## Introduction
 
